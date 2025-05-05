@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom Navigasi</string>
+    <string name="transaction">transaksi</string>
+    <string name="budgets">Anggaran</string>
+    <string name="tasks">Tugas</string>
+    <string name="settings">Pengaturan</string>
+</resources>
